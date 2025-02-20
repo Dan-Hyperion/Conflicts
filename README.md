@@ -15,3 +15,5 @@
 > First change in feature2
 
 > Second change in feature2
+
+> Third change in feature2
